@@ -21,6 +21,7 @@
   },
   "homepage": "kovalevskaolga.github.io/practice/",
   "dependencies": {
+    "basiclightbox": "^5.0.4",
     "gh-pages": "^6.3.0",
     "parcel": "^2.14.4",
     "parcel-reporter-clean-dist": "^1.0.4",
