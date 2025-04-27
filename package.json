@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/KovalevskaOlga/practice/issues"
   },
-  "homepage": "https://github.com/KovalevskaOlga/practice#readme",
+  "homepage": "kovalevskaolga.github.io/practice/",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.14.4",
